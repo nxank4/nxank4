@@ -1,7 +1,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmatngu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmatngu&layout=donut&theme=radical)](https://github.com/anmatngu/github-readme-stats)
 # Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=anmatngu)](https://github.com/anmatngu/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=anmatngu&theme=radical)](https://github.com/anmatngu/github-profile-trophy)
 <!--
 **anmatngu/anmatngu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
