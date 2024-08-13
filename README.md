@@ -1,4 +1,4 @@
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmatngu)](https://github.com/anmatngu/github-readme-stats&show_icons=true&theme=transparent)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmatngu&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmatngu&layout=donut)](https://github.com/anmatngu/github-readme-stats)
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anmatngu)](https://github.com/anmatngu/github-profile-trophy)
