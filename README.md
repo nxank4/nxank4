@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmatngu)](https://github.com/anmatngu/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=anmatngu)](https://github.com/anmatngu/github-readme-stats&show_icons=true&theme=transparent)
 # Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=anmatngu)](https://github.com/anmatngu/github-profile-trophy)
 <!--
