@@ -4,8 +4,8 @@
 ![R](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&color=276DC3)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&color=239120)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
-![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=007396)
-![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=postgresql&color=336791)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=5382A1)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=postgresql&color=FF5733)
 
 I love data, code, and AI! Passionate about building projects and learning new technologies. Check out some of my repositories below!
 
