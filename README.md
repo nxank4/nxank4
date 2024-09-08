@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lunovian
-![Header](./github-header.png) [![GitHub Streak](https://streak-stats.demolab.com/?user=lunovian)](https://git.io/streak-stats)
+![Header](./github-header.png) 
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
 ![R](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&color=276DC3)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&color=239120)
@@ -10,6 +10,7 @@
 I love data, code, and AI! Passionate about building projects and learning new technologies. Check out some of my repositories below!
 
 ## 🚀 GitHub Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=lunovian&theme=radical&border_radius=7.5)](https://git.io/streak-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=lunovian&show_icons=true&theme=radical)
 
 ## 💻 Top Languages
