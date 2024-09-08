@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Lunovian
-![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
-![Python](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=3776AB)
-
 ![Header](./github-header.png)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
+![R](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&color=276DC3)
+![C#](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&color=239120)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=F7DF1E)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=for-the-badge&logo=java&color=007396)
+![SQL](https://img.shields.io/badge/Code-SQL-informational?style=for-the-badge&logo=postgresql&color=336791)
 
 I love data, code, and AI! Passionate about building projects and learning new technologies. Check out some of my repositories below!
 
