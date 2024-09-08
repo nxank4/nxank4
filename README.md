@@ -1,5 +1,8 @@
 # 👋 Hi, I'm Lunovian
-![Header](./github-header-image.png)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
+![Python](https://img.shields.io/badge/Code-R-informational?style=flat&logo=r&color=3776AB)
+
+![Header](./github-header.png)
 
 I love data, code, and AI! Passionate about building projects and learning new technologies. Check out some of my repositories below!
 
