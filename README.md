@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Lunovian
-![Header](./github-header.png)
+![Header](./github-header.png) [![GitHub Streak](https://streak-stats.demolab.com/?user=lunovian)](https://git.io/streak-stats)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=for-the-badge&logo=python&color=3776AB)
 ![R](https://img.shields.io/badge/Code-R-informational?style=for-the-badge&logo=r&color=276DC3)
 ![C#](https://img.shields.io/badge/Code-C%23-informational?style=for-the-badge&logo=csharp&color=239120)
