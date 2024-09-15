@@ -20,7 +20,7 @@ I love data, code, and AI! Passionate about building projects and learning new t
 [![trophy](https://github-profile-trophy.vercel.app/?username=lunovian&theme=radical)](https://github.com/lunovian/github-profile-trophy)
 
 ## 🛠 Skills and Tools
-- **Programming Languages**: Python, JavaScript, C++
+- **Programming Languages**: Python, JavaScript, C#, R, JavaScript, Java, SQL
 - **Frameworks**: TensorFlow, PyTorch, Django
 - **Tools**: Git, Docker, Jupyter
 
@@ -32,8 +32,8 @@ I love data, code, and AI! Passionate about building projects and learning new t
 [![roadmap.sh](https://roadmap.sh/card/tall/66ddc1aec46f68d052f33259?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://linkedin.com/in/lunovian)
-- [Twitter](https://twitter.com/lunovian)
-- [Website](https://lunovian.dev)
+- [LinkedIn](https://www.linkedin.com/in/lunovian/)
+- [Twitter](https://x.com/lunovian)
+- [Website](https://lunovian.github.io/)
 
 Thanks for visiting my profile! Feel free to check out my projects and get in touch.
