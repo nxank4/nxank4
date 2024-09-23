@@ -23,6 +23,8 @@ I love data, code, and AI! Passionate about building projects and learning new t
 - **Programming Languages**: Python, JavaScript, C#, R, JavaScript, Java, SQL
 - **Frameworks**: TensorFlow, PyTorch, Django
 - **Tools**: Git, Docker, Jupyter
+- **LeetCode**
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool)
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning Techniques
