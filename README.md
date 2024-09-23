@@ -25,7 +25,7 @@ I love data, code, and AI! Passionate about building projects and learning new t
 - **Tools**: Git, Docker, Jupyter
 - **LeetCode**
 
-![Leetcode Stats](https://leetcard.lunovian.cool/lunovian)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/lunovian)](https://leetcode.com/lunovian)
 
 ## 🌱 Currently Learning
 - Advanced Machine Learning Techniques
