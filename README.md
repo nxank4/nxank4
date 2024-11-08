@@ -37,6 +37,6 @@ I love data, code, and AI! Passionate about building projects and learning new t
 ## 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/lunovian/)
 - [Twitter](https://x.com/lunovian)
-- [Website](https://lunovian.github.io/)
+- [Website](https://lunovain.vercel.app/)
 
 Thanks for visiting my profile! Feel free to check out my projects and get in touch.
