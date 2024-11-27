@@ -32,6 +32,7 @@ I love data, code, and AI! Passionate about building projects and learning new t
 - MLOps and CI/CD Pipelines
 
 ## 📊 My AI/Data Scientist Roadmap
+
 [![roadmap.sh](https://roadmap.sh/card/tall/66ddc1aec46f68d052f33259?variant=dark&roadmaps=ai-data-scientist)](https://roadmap.sh)
 
 ## 🔗 Connect with Me
