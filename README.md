@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nxank4</h1>
-<h3 align="center">I'm an developer and data enthusiast focused on the intersection of AI. My journey involves building innovative projects while continuously exploring new technologies. My expertise spans data science, machine learning, deep learning and software development.</h3>
+<h3 align="center">I'm a developer and data enthusiast focused on the intersection of AI. My journey involves building innovative projects while continuously exploring new technologies. My expertise spans data science, machine learning, deep learning, and software development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lunovian&label=Profile%20views&color=0e75b6&style=flat" alt="lunovian" /> </p>
 
