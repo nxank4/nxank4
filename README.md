@@ -7,8 +7,6 @@
   <img src="https://img.shields.io/github/followers/lunovian?label=Followers&style=for-the-badge&color=58A6FF" alt="GitHub followers" />
 </div>
 
----
-
 ## 🚀 About Me
 
 I'm a passionate **developer and data enthusiast** focused on the intersection of **AI and software development**. My journey involves building innovative projects while continuously exploring cutting-edge technologies. I specialize in transforming complex data into actionable insights and creating intelligent solutions.
@@ -19,8 +17,6 @@ I'm a passionate **developer and data enthusiast** focused on the intersection o
 - 🎓 Studying at **FPT University Ho Chi Minh City**
 - 🧠 Exploring **Machine Learning**, **Deep Learning**, and **AI Applications**
 - 📊 Building data-driven solutions and web applications
-
----
 
 ## 🌐 Connect With Me
 
@@ -41,8 +37,6 @@ I'm a passionate **developer and data enthusiast** focused on the intersection o
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://datadeeper.vercel.app/resume)
 
 </div>
-
----
 
 ## 🛠️ Tech Stack
 
@@ -103,20 +97,16 @@ I'm a passionate **developer and data enthusiast** focused on the intersection o
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lunovian&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nxank4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lunovian&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </div>
 
 <div align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunovian&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxank4&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages"/>
 </div>
-
----
 
 ## ☕ Support My Work
 
@@ -126,8 +116,6 @@ I'm a passionate **developer and data enthusiast** focused on the intersection o
 [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/nxank4)
 
 </div>
-
----
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=100&section=footer" alt="Footer"/>
