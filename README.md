@@ -81,6 +81,34 @@
 
 ---
 
+## ⏱️ Development Metrics
+
+> *Insights into my coding activity and time management*
+
+<div align="center">
+
+[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/all_projects.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+
+### Weekly Coding Stats
+
+<!--START_SECTION:waka-->
+```text
+Python       5 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.12 % 
+JavaScript   2 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
+TypeScript   1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Markdown     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+JSON         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+```
+<!--END_SECTION:waka-->
+
+### Coding Activity
+
+<img src="https://wakatime.com/share/@YOUR_WAKATIME_ID/9b2f7b7b-2d05-488c-ac75-11943150bb1e.svg" width="500"/>
+
+</div>
+
+---
+
 ## 🚀 Featured Projects
 
 > _Building innovative solutions at the intersection of AI and software development_
