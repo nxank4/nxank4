@@ -8,8 +8,6 @@
   </p>
 </div>
 
----
-
 ## 👨‍💻 About Me
 
 **Passionate developer and data scientist** specializing in AI-driven solutions and full-stack development. Currently pursuing my degree at **FPT University Ho Chi Minh City** while building innovative projects that bridge the gap between data science and software engineering.
@@ -20,8 +18,6 @@
 - 📚 Advanced Machine Learning & Deep Learning research
 - 🌐 Building scalable data-driven web applications
 - 📊 Contributing to open-source AI/ML projects
-
----
 
 ## 🛠️ Technical Skills
 
@@ -70,8 +66,6 @@
 
 </details>
 
----
-
 ## 📈 GitHub Analytics
 
 <div align="center">
@@ -79,28 +73,14 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nxank4&layout=compact&theme=github_dark&hide_border=true"/>
 </div>
 
----
-
 ## ⏱️ Development Metrics
 
 > _Insights into my coding activity and time management_
-
-<div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/nxank4/all_projects.svg)](https://wakatime.com/@nxank4)
 
 ### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
-
-### Coding Activity
-
-<img src="https://wakatime.com/share/@nxank4/9b2f7b7b-2d05-488c-ac75-11943150bb1e.svg" width="500"/>
-
-</div>
-
----
 
 ## 🚀 Featured Projects
 
@@ -109,8 +89,6 @@
 - **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
 - **[Portfolio Website](https://datadeeper.vercel.app/)** - Personal portfolio showcasing projects and skills
 - **Data Science Projects** - Various ML/DL implementations and research
-
----
 
 ## 📫 Let's Connect
 
@@ -124,8 +102,6 @@
 **Open to opportunities in AI/ML, Data Science, and Full-Stack Development**
 
 </div>
-
----
 
 <div align="center">
   <i>💡 "Transforming data into insights, one algorithm at a time"</i>
