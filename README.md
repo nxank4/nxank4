@@ -77,14 +77,7 @@
 
 > _Insights into my coding activity and time management_
 
-### Weekly Coding Stats
-
 <!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
 <!--END_SECTION:waka-->
 
 ## 🚀 Featured Projects
@@ -93,7 +86,7 @@ No activity tracked
 
 - **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
 - **[Portfolio Website](https://datadeeper.vercel.app/)** - Personal portfolio showcasing projects and skills
-- **Data Science Projects** - Various ML/DL implementations and research
+- **[Data Science Projects](https://www.kaggle.com/anmatngu)** - Various ML/DL implementations and research on Kaggle
 
 ## 📫 Let's Connect
 
