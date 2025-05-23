@@ -3,8 +3,8 @@
   <h3>AI & Data Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
   
   <p>
-    <img src="https://komarev.com/ghpvc/?username=lunovian&label=Profile%20views&color=0366d6&style=flat" alt="Profile views" />
-    <img src="https://img.shields.io/github/followers/lunovian?label=Followers&style=flat&color=0366d6" alt="GitHub followers" />
+    <img src="https://komarev.com/ghpvc/?username=nxank4&label=Profile%20views&color=0366d6&style=flat" alt="Profile views" />
+    <img src="https://img.shields.io/github/followers/nxank4?label=Followers&style=flat&color=0366d6" alt="GitHub followers" />
   </p>
 </div>
 
@@ -16,7 +16,7 @@
 
 ### 🎯 What I'm Currently Working On
 
-- 🚀 **[fastune](https://github.com/lunovian/fastune)** - AI-powered optimization platform
+- 🚀 **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
 - 📚 Advanced Machine Learning & Deep Learning research
 - 🌐 Building scalable data-driven web applications
 - 📊 Contributing to open-source AI/ML projects
@@ -83,27 +83,20 @@
 
 ## ⏱️ Development Metrics
 
-> *Insights into my coding activity and time management*
+> _Insights into my coding activity and time management_
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/YOUR_WAKATIME_ID/all_projects.svg)](https://wakatime.com/@YOUR_WAKATIME_ID)
+[![wakatime](https://wakatime.com/badge/user/nxank4/all_projects.svg)](https://wakatime.com/@nxank4)
 
 ### Weekly Coding Stats
 
 <!--START_SECTION:waka-->
-```text
-Python       5 hrs 42 mins   ███████████▓░░░░░░░░░░░░░   46.12 % 
-JavaScript   2 hrs 36 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.05 % 
-TypeScript   1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 % 
-Markdown     1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
-JSON         43 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
-```
 <!--END_SECTION:waka-->
 
 ### Coding Activity
 
-<img src="https://wakatime.com/share/@YOUR_WAKATIME_ID/9b2f7b7b-2d05-488c-ac75-11943150bb1e.svg" width="500"/>
+<img src="https://wakatime.com/share/@nxank4/9b2f7b7b-2d05-488c-ac75-11943150bb1e.svg" width="500"/>
 
 </div>
 
@@ -113,7 +106,7 @@ JSON         43 mins         █▒░░░░░░░░░░░░░░░
 
 > _Building innovative solutions at the intersection of AI and software development_
 
-- **[fastune](https://github.com/lunovian/fastune)** - AI-powered optimization platform
+- **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
 - **[Portfolio Website](https://datadeeper.vercel.app/)** - Personal portfolio showcasing projects and skills
 - **Data Science Projects** - Various ML/DL implementations and research
 
