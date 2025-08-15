@@ -80,15 +80,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 August 2025 - To: 13 August 2025
+From: 07 August 2025 - To: 14 August 2025
 
-Total Time: 41 hrs 14 mins
+Total Time: 35 hrs 43 mins
 
-TypeScript   20 hrs 37 mins  ████████████▓░░░░░░░░░░░░   50.02 %
-Python       17 hrs 24 mins  ██████████▓░░░░░░░░░░░░░░   42.22 %
-Bash         1 hr 7 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.72 %
-Docker       45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-CSS          29 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
+TypeScript                 18 hrs 26 mins  █████████████░░░░░░░░░░░░   51.60 %
+Python                     14 hrs 38 mins  ██████████▒░░░░░░░░░░░░░░   41.00 %
+Bash                       1 hr 6 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Docker                     45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 %
+TOML                       25 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
