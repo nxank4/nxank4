@@ -80,15 +80,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 August 2025 - To: 16 August 2025
+From: 10 August 2025 - To: 17 August 2025
 
-Total Time: 47 hrs 25 mins
+Total Time: 47 hrs 12 mins
 
-TypeScript                 30 hrs 56 mins  ████████████████▒░░░░░░░░   65.26 %
-Python                     13 hrs 14 mins  ███████░░░░░░░░░░░░░░░░░░   27.90 %
-SQL                        1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
-Bash                       48 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.69 %
-Docker                     45 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
+TypeScript                 32 hrs 57 mins  █████████████████▒░░░░░░░   69.81 %
+Python                     12 hrs 33 mins  ██████▓░░░░░░░░░░░░░░░░░░   26.61 %
+SQL                        1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
+Bash                       8 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 %
+YAML                       5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
