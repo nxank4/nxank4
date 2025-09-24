@@ -98,14 +98,14 @@ HTML         2 mins          ░░░░░░░░░░░░░░░░░
 > _Building innovative solutions at the intersection of AI and software development_
 
 - **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
-- **[Portfolio Website](https://datadeeper.vercel.app/)** - Personal portfolio showcasing projects and skills
+- **[Portfolio Website](https://coresen.vercel.app/)** - Personal portfolio showcasing projects and skills
 - **[Data Science Projects](https://www.kaggle.com/anmatngu)** - Various ML/DL implementations and research on Kaggle
 
 ## 📫 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://datadeeper.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nxank4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxan2911@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://datadeeper.vercel.app/resume)
