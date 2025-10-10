@@ -80,15 +80,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 October 2025 - To: 08 October 2025
+From: 02 October 2025 - To: 09 October 2025
 
-Total Time: 8 hrs 17 mins
+Total Time: 9 hrs 30 mins
 
-TypeScript   7 hrs 48 mins   ███████████████████████▓░   94.16 %
-Python       18 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Markdown     8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.68 %
-Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
-TOML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+TypeScript   7 hrs 48 mins   ████████████████████▓░░░░   82.17 %
+Python       1 hr 14 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.05 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+CSV          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.97 %
+Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 %
 ```
 
 <!--END_SECTION:waka-->
