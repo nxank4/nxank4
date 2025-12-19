@@ -1,6 +1,6 @@
 <div align="center">
   <h1>👋 Hi, I'm nxank4</h1>
-  <h3>AI & Data Engineer | Full-Stack Developer | Machine Learning Enthusiast</h3>
+  <h3>AI & Data Engineer | Data Scientist | Full-Stack Developer</h3>
   
   <p>
     <img src="https://komarev.com/ghpvc/?username=nxank4&label=Profile%20views&color=0366d6&style=flat" alt="Profile views" />
@@ -14,7 +14,7 @@
 
 ### 🎯 What I'm Currently Working On
 
-- 🚀 **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
+- 🚀 **[fastune](https://github.com/nxank4/semantix)** - AI-powered optimization platform
 - 📚 Advanced Machine Learning & Deep Learning research
 - 🌐 Building scalable data-driven web applications
 - 📊 Contributing to open-source AI/ML projects
@@ -97,7 +97,7 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 
 > _Building innovative solutions at the intersection of AI and software development_
 
-- **[fastune](https://github.com/nxank4/fastune)** - AI-powered optimization platform
+- **[fastune](https://github.com/nxank4/semantix)** - AI-powered optimization platform
 - **[Portfolio Website](https://coresen.vercel.app/)** - Personal portfolio showcasing projects and skills
 - **[Data Science Projects](https://www.kaggle.com/anmatngu)** - Various ML/DL implementations and research on Kaggle
 
@@ -110,7 +110,7 @@ Markdown     17 mins         ▒░░░░░░░░░░░░░░░░
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxan2911@gmail.com)
 [![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://datadeeper.vercel.app/resume)
 
-**Open to opportunities in AI/ML, Data Science, and Full-Stack Development**
+**Open to opportunities in AI/ML Engineer, Data Engineer, and Data Scientist**
 
 </div>
 
