@@ -80,15 +80,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2025 - To: 30 December 2025
+From: 24 December 2025 - To: 31 December 2025
 
-Total Time: 9 hrs 41 mins
+Total Time: 9 hrs 10 mins
 
-Python       5 hrs 56 mins   ███████████████▒░░░░░░░░░   61.35 %
-Markdown     2 hrs 30 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.80 %
-TOML         32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.66 %
-Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
-Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+Python       5 hrs 43 mins   ███████████████▓░░░░░░░░░   62.41 %
+Markdown     2 hrs 15 mins   ██████░░░░░░░░░░░░░░░░░░░   24.62 %
+TOML         30 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+Git Config   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 %
+Other        13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.48 %
 ```
 
 <!--END_SECTION:waka-->
