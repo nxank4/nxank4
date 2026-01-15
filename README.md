@@ -10,11 +10,11 @@
 
 ## 👨‍💻 About Me
 
-**Passionate developer and data scientist** specializing in AI-driven solutions and full-stack development. Currently pursuing my degree at **FPT University Ho Chi Minh City** while building innovative projects that bridge the gap between data science and software engineering.
+**Passionate developer and AI Engineer + Data Scientist** specializing in AI-driven solutions and full-stack development. Currently pursuing my degree at **FPT University Ho Chi Minh City** while building innovative projects that bridge the gap between data science and software engineering.
 
 ### 🎯 What I'm Currently Working On
 
-- 🚀 **[fastune](https://github.com/nxank4/semantix)** - AI-powered optimization platform
+- 🚀 **[loclean](https://github.com/nxank4/loclean)** - The All-in-One Local AI Data Cleaning Library
 - 📚 Advanced Machine Learning & Deep Learning research
 - 🌐 Building scalable data-driven web applications
 - 📊 Contributing to open-source AI/ML projects
@@ -97,7 +97,7 @@ Markdown     27 mins         █▓░░░░░░░░░░░░░░░
 
 > _Building innovative solutions at the intersection of AI and software development_
 
-- **[fastune](https://github.com/nxank4/semantix)** - AI-powered optimization platform
+- **[loclean](https://github.com/nxank4/loclean)** - The All-in-One Local AI Data Cleaning Library
 - **[Portfolio Website](https://coresen.vercel.app/)** - Personal portfolio showcasing projects and skills
 - **[Data Science Projects](https://www.kaggle.com/anmatngu)** - Various ML/DL implementations and research on Kaggle
 
@@ -105,15 +105,11 @@ Markdown     27 mins         █▓░░░░░░░░░░░░░░░
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://coresen.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nxank4)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxan2911@gmail.com)
-[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://datadeeper.vercel.app/resume)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://coresen.vercel.app/resume)
 
 **Open to opportunities in AI/ML Engineer, Data Engineer, and Data Scientist**
 
-</div>
-
-<div align="center">
-  <i>💡 "Transforming data into insights, one algorithm at a time"</i>
 </div>
