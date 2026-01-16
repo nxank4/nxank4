@@ -80,15 +80,15 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 January 2026 - To: 14 January 2026
+From: 08 January 2026 - To: 15 January 2026
 
-Total Time: 7 hrs 3 mins
+Total Time: 12 hrs 41 mins
 
-Python       2 hrs 5 mins    ███████▒░░░░░░░░░░░░░░░░░   29.55 %
-YAML         1 hr 38 mins    █████▓░░░░░░░░░░░░░░░░░░░   23.25 %
-Makefile     45 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
-SSH Config   32 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 %
-Markdown     27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.50 %
+Python       3 hrs 58 mins   ███████▓░░░░░░░░░░░░░░░░░   31.33 %
+YAML         2 hrs 27 mins   █████░░░░░░░░░░░░░░░░░░░░   19.35 %
+Bash         1 hr 16 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Makefile     1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.01 %
+Markdown     58 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 %
 ```
 
 <!--END_SECTION:waka-->
