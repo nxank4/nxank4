@@ -7,22 +7,12 @@
 
 ## 🚀 Current Focus
 
-### [loclean](https://github.com/nxank4/loclean)
-**The All-in-One Local AI Data Cleaning Library**
+| Project | Description | Links |
+|---------|-------------|-------|
+| **[loclean](https://github.com/nxank4/loclean)** | The All-in-One Local AI Data Cleaning Library - A powerful Python library for intelligent data cleaning using local AI models. Built to make data preprocessing faster, smarter, and more accessible. | [![GitHub stars](https://img.shields.io/github/stars/nxank4/loclean?style=flat-square)](https://github.com/nxank4/loclean) [![GitHub forks](https://img.shields.io/github/forks/nxank4/loclean?style=flat-square)](https://github.com/nxank4/loclean) |
+| **[Portfolio & Blog](https://coresen.vercel.app/)** | Personal website showcasing projects, articles, and thoughts. Visit my portfolio to explore my work, read blog posts about AI/ML, data engineering, and software development. | [![Website](https://img.shields.io/badge/Website-coresen.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://coresen.vercel.app/) |
 
-A powerful Python library for intelligent data cleaning using local AI models. Built to make data preprocessing faster, smarter, and more accessible.
-
-[![GitHub stars](https://img.shields.io/github/stars/nxank4/loclean?style=flat-square)](https://github.com/nxank4/loclean)
-[![GitHub forks](https://img.shields.io/github/forks/nxank4/loclean?style=flat-square)](https://github.com/nxank4/loclean)
-
-### [Portfolio & Blog](https://coresen.vercel.app/)
-**Personal website showcasing projects, articles, and thoughts**
-
-Visit my portfolio to explore my work, read blog posts about AI/ML, data engineering, and software development.
-
-[![Website](https://img.shields.io/badge/Website-coresen.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://coresen.vercel.app/)
-
-## 🐍 GitHub Contribution Snake
+## ⭐ GitHub Contribution
 
 <div align="center">
   <picture>
@@ -34,20 +24,14 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 ## 📝 Latest Blog Posts
 
-| Title | Categories | Date |
-|-------|------------|------|
 <!-- blog:START -->
 
-| [Emerging Trends in Data Agents: Shaping the Future of AI](https://coresen.vercel.app/blog/ai-agents) | Data AgentsAI TrendsReal-Time InsightsIndustry Transformation | Dec 8, 2024 |
-| [Exploring Feynman AI: A Revolution in Scientific Discovery](https://coresen.vercel.app/blog/feyman-ai) | Feynman AIScientific DiscoverySymbolic RegressionAI in Science | Dec 8, 2024 |
-| [Discover HailuoAI: The Next-Generation AI Video Solution](https://coresen.vercel.app/blog/hailuoai) | HailuoAIAI VideoVideo AnalysisContent Creation | Dec 8, 2024 |
-| [Exploring VAR: Scalable Image Generation with Visual Autoregressive Modeling](https://coresen.vercel.app/blog/visual-autoregressive-modeling) | Visual Autoregressive ModelingVARImage GenerationAI Research | Dec 8, 2024 |
 <!-- blog:END -->
 
 ## 🔄 Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ## ⏱️ Development Time
 
