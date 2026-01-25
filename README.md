@@ -1,8 +1,13 @@
 <div align="center">
 
-**👋 Hi, I'm An (aka nxank4)**
+# 👋 Hi, I'm An (aka nxank4)
 
-**AI & Data Engineer | Data Scientist | Full-Stack Developer**
+**AI Engineer | Data Scientist**
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://coresen.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nxank4)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxan2911@gmail.com)
+
 </div>
 
 ## 🚀 Current Focus
@@ -50,12 +55,3 @@ TypeScript   22 mins         █▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://coresen.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nxank4)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nxan2911@gmail.com)
-
-**Open to opportunities in AI/ML Engineer, Data Engineer, and Data Scientist**
-
-</div>
