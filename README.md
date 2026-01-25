@@ -1,12 +1,8 @@
 <div align="center">
 
-**👋 Hi, I'm An (aka nxan)**
+**👋 Hi, I'm An (aka nxank4)**
 
 **AI & Data Engineer | Data Scientist | Full-Stack Developer**
-
-[![Profile Views](https://komarev.com/ghpvc/?username=nxank4&label=Profile%20views&color=0366d6&style=flat)](https://github.com/nxank4)
-[![GitHub Followers](https://img.shields.io/github/followers/nxank4?label=Followers&style=flat&color=0366d6)](https://github.com/nxank4)
-
 </div>
 
 ## 🚀 Current Focus
@@ -40,8 +36,9 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 ## 🔄 Recent Activity
 
-<!--RECENT_ACTIVITY:start-->
-<!--RECENT_ACTIVITY:end-->
+<!--START_SECTION:activity-->
+*Loading recent activity...*
+<!--END_SECTION:activity-->
 
 ## ⏱️ Development Time
 
