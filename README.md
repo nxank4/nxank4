@@ -30,9 +30,10 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 ## 📝 Latest Blog Posts
 
-<!--START_SECTION:blog-->
-*Coming soon - Blog posts will appear here*
-<!--END_SECTION:blog-->
+| Title | Date |
+|-------|------|
+<!-- blog:START -->
+<!-- blog:END -->
 
 ## 🔄 Recent Activity
 
