@@ -1,0 +1,50 @@
+name: Update All
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"  # Run every 6 hours
+
+permissions:
+  contents: read
+  actions: write
+
+jobs:
+  trigger-workflows:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Trigger Blog Posts Workflow
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'blog-posts.yml',
+              ref: 'main'
+            });
+
+      - name: Trigger WakaTime Workflow
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'main.yml',
+              ref: 'main'
+            });
+
+      - name: Trigger Snake Game Workflow
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            await github.rest.actions.createWorkflowDispatch({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              workflow_id: 'snake-game.yml',
+              ref: 'main'
+            });
