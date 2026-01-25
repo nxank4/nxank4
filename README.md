@@ -46,11 +46,10 @@ From: 17 January 2026 - To: 24 January 2026
 
 Total Time: 5 hrs 8 mins
 
-Python       1 hr 22 mins    ██████▓░░░░░░░░░░░░░░░░░░   26.68 %
-YAML         1 hr 14 mins    ██████░░░░░░░░░░░░░░░░░░░   24.06 %
-Markdown     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.07 %
-Makefile     26 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 %
-TypeScript   22 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
+Python       1 hr 22 mins    ██████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.68 %
+Markdown     28 mins         ██▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   09.07 %
+Makefile     26 mins         ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.65 %
+TypeScript   22 mins         █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.23 %
 ```
 
 <!--END_SECTION:waka-->
