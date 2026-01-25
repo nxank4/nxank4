@@ -22,17 +22,23 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 [![Website](https://img.shields.io/badge/Website-coresen.vercel.app-000?style=flat-square&logo=vercel&logoColor=white)](https://coresen.vercel.app/)
 
-## 📊 GitHub Contribution Graph
+## 🐍 GitHub Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/nxank4/nxank4/main/profile-3d-contrib.svg" alt="3D Contribution Graph" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake.svg" width="100%" />
+  </picture>
 </div>
 
 ## 📝 Latest Blog Posts
 
 | Title | Date |
 |-------|------|
-<!-- blog:START -->| [Emerging Trends in Data Agents: Shaping the Future of AI](https://coresen.vercel.app/blog/ai-agents) | Dec 8, 2024 || [Exploring Feynman AI: A Revolution in Scientific Discovery](https://coresen.vercel.app/blog/feyman-ai) | Dec 8, 2024 || [Discover HailuoAI: The Next-Generation AI Video Solution](https://coresen.vercel.app/blog/hailuoai) | Dec 8, 2024 || [Exploring VAR: Scalable Image Generation with Visual Autoregressive Modeling](https://coresen.vercel.app/blog/visual-autoregressive-modeling) | Dec 8, 2024 |<!-- blog:END -->
+<!-- blog:START -->
+
+<!-- blog:END -->
 
 ## 🔄 Recent Activity
 

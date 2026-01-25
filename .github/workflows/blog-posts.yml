@@ -27,6 +27,6 @@ jobs:
           comment_tag_name: "blog"
           commit_message: "Update blog posts"
           disable_sort: false
-          template: "| [$title]($url) | $date |"
+          template: "$newline| [$title]($url) | $date |"
           date_format: "mmm d, yyyy"
-          tag_post_pre_newline: false
+          tag_post_pre_newline: true
