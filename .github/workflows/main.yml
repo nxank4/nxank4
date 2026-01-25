@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 concurrency:
-  group: update-readme
+  group: update-wakatime
   cancel-in-progress: false
 
 jobs:

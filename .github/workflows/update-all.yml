@@ -25,6 +25,9 @@ jobs:
               ref: 'main'
             });
 
+      - name: Wait before next trigger
+        run: sleep 30
+
       - name: Trigger WakaTime Workflow
         uses: actions/github-script@v7
         with:
@@ -36,6 +39,9 @@ jobs:
               workflow_id: 'main.yml',
               ref: 'main'
             });
+
+      - name: Wait before next trigger
+        run: sleep 30
 
       - name: Trigger Snake Game Workflow
         uses: actions/github-script@v7

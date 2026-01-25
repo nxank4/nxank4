@@ -7,7 +7,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: update-readme
+  group: update-snake-game
   cancel-in-progress: false
 
 jobs:
