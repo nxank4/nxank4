@@ -31,6 +31,16 @@
 ## 🔄 Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#10](https://github.com/nxank4/coresen/pull/10) in [nxank4/coresen](https://github.com/nxank4/coresen)
+2. 💪 Opened PR [#10](https://github.com/nxank4/coresen/pull/10) in [nxank4/coresen](https://github.com/nxank4/coresen)
+3. 🎉 Merged PR [#9](https://github.com/nxank4/coresen/pull/9) in [nxank4/coresen](https://github.com/nxank4/coresen)
+4. 💪 Opened PR [#9](https://github.com/nxank4/coresen/pull/9) in [nxank4/coresen](https://github.com/nxank4/coresen)
+5. 🎉 Merged PR [#62](https://github.com/nxank4/loclean/pull/62) in [nxank4/loclean](https://github.com/nxank4/loclean)
+6. 💪 Opened PR [#62](https://github.com/nxank4/loclean/pull/62) in [nxank4/loclean](https://github.com/nxank4/loclean)
+7. 🎉 Merged PR [#61](https://github.com/nxank4/loclean/pull/61) in [nxank4/loclean](https://github.com/nxank4/loclean)
+8. 💪 Opened PR [#61](https://github.com/nxank4/loclean/pull/61) in [nxank4/loclean](https://github.com/nxank4/loclean)
+9. 🎉 Merged PR [#60](https://github.com/nxank4/loclean/pull/60) in [nxank4/loclean](https://github.com/nxank4/loclean)
+10. 💪 Opened PR [#60](https://github.com/nxank4/loclean/pull/60) in [nxank4/loclean](https://github.com/nxank4/loclean)
 <!--END_SECTION:activity-->
 
 ## ⏱️ Development Time
