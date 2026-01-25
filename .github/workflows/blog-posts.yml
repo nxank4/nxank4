@@ -1,0 +1,29 @@
+name: Update Blog Posts
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 */6 * * *"
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    name: Update Blog Posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Fetch blog posts
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://coresen.vercel.app/rss.xml"
+          max_post_count: 5
+          comment_tag_name: "blog"
+          commit_message: "Update blog posts"
+          disable_sort: false

@@ -1,15 +1,8 @@
 name: Waka Readme
 
 on:
-  # For manual workflow trigger
   workflow_dispatch:
-  # Run on push to any branch
-  push:
-    branches:
-      - "**"
-  # Run on schedule (daily)
   schedule:
-    # Runs at 12 AM UTC (5:30 AM IST)
     - cron: "0 0 * * *"
 
 jobs:
@@ -17,15 +10,18 @@ jobs:
     name: WakaReadme DevMetrics
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Update Waka stats
-        uses: athul/waka-readme@master
+      - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          ### content
           SHOW_TITLE: true
-          BLOCKS: ░▒▓█
+          SECTION_NAME: waka
+          BLOCKS: ▁▂▃▄▅▆▇█
+          CODE_LANG: txt
           TIME_RANGE: last_7_days
+          LANG_COUNT: 5
           SHOW_TIME: true
           SHOW_MASKED_TIME: true
+          IGNORED_LANGUAGES: YAML JSON TOML
+          ### commit
+          COMMIT_MESSAGE: Update waka-readme graph with new metrics
