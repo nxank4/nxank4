@@ -34,8 +34,8 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 ## 📝 Latest Blog Posts
 
-| Title | Date |
-|-------|------|
+| Title | Categories | Date |
+|-------|------------|------|
 <!-- blog:START -->
 
 | [Emerging Trends in Data Agents: Shaping the Future of AI](https://coresen.vercel.app/blog/ai-agents) | Dec 8, 2024 |
@@ -46,9 +46,8 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 ## 🔄 Recent Activity
 
-<!--START_SECTION:activity-->
-*Loading recent activity...*
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
 
 ## ⏱️ Development Time
 

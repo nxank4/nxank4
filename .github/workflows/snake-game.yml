@@ -23,6 +23,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions[bot]@users.noreply.github.com
+          git pull --rebase || git pull
           git add github-snake*.svg
           git commit -m "Generate snake game" || exit 0
           git push
