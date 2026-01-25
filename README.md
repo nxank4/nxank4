@@ -32,8 +32,7 @@ Visit my portfolio to explore my work, read blog posts about AI/ML, data enginee
 
 | Title | Date |
 |-------|------|
-<!-- blog:START -->
-<!-- blog:END -->
+<!-- blog:START -->| [Emerging Trends in Data Agents: Shaping the Future of AI](https://coresen.vercel.app/blog/ai-agents) | Dec 8, 2024 || [Exploring Feynman AI: A Revolution in Scientific Discovery](https://coresen.vercel.app/blog/feyman-ai) | Dec 8, 2024 || [Discover HailuoAI: The Next-Generation AI Video Solution](https://coresen.vercel.app/blog/hailuoai) | Dec 8, 2024 || [Exploring VAR: Scalable Image Generation with Visual Autoregressive Modeling](https://coresen.vercel.app/blog/visual-autoregressive-modeling) | Dec 8, 2024 |<!-- blog:END -->
 
 ## 🔄 Recent Activity
 
