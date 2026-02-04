@@ -42,14 +42,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 January 2026 - To: 02 February 2026
+From: 27 January 2026 - To: 03 February 2026
 
-Total Time: 13 hrs 6 mins
+Total Time: 10 hrs 14 mins
 
-Python       4 hrs 32 mins   ████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.66 %
-Bash         1 hr 49 mins    ███▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.91 %
-Markdown     1 hr 42 mins    ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   13.06 %
-Makefile     35 mins         █▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   04.56 %
+Python      3 hrs 51 mins   █████████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   37.67 %
+Bash        1 hr 46 mins    ████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.38 %
+Markdown    1 hr 16 mins    ███▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.36 %
+Makefile    35 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.84 %
 ```
 
 <!--END_SECTION:waka-->
