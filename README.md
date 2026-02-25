@@ -42,14 +42,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 February 2026 - To: 23 February 2026
+From: 17 February 2026 - To: 24 February 2026
 
-Total Time: 15 hrs 6 mins
+Total Time: 13 hrs 16 mins
 
-Python       6 hrs 44 mins         ███████████▂▁▁▁▁▁▁▁▁▁▁▁▁▁   44.62 %
-Markdown     4 hrs 30 mins         ███████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   29.86 %
-CSV          1 hr 14 mins          ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.22 %
-Bash         13 mins               ▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   01.54 %
+Python       5 hrs 20 mins         ██████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   40.24 %
+Markdown     4 hrs 36 mins         ████████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.65 %
+CSV          52 mins               █▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   06.60 %
 ```
 
 <!--END_SECTION:waka-->
