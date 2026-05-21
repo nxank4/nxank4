@@ -42,7 +42,7 @@ An open-source community building tools and resources. We create educational con
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 May 2026 - To: 19 May 2026
+From: 13 May 2026 - To: 20 May 2026
 
 Total Time: 2 mins
 
