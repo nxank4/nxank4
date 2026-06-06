@@ -42,15 +42,15 @@ An open-source community building tools and resources. We create educational con
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 May 2026 - To: 04 June 2026
+From: 29 May 2026 - To: 05 June 2026
 
-Total Time: 8 hrs 4 mins
+Total Time: 7 hrs 39 mins
 
-TypeScript   2 hrs 43 mins         ████████▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   33.75 %
-Python       2 hrs 13 mins         ██████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   27.50 %
-Markdown     1 hr 23 mins          ████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.28 %
-Other        25 mins               █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.23 %
-Git Config   24 mins               █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.01 %
+TypeScript   2 hrs 43 mins         ████████▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   35.62 %
+Python       1 hr 53 mins          ██████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   24.69 %
+Markdown     1 hr 18 mins          ████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   17.08 %
+Other        25 mins               █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.49 %
+Git Config   24 mins               █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.29 %
 ```
 
 <!--END_SECTION:waka-->
