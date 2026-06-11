@@ -10,7 +10,7 @@ Building practical AI systems, coding-agent infrastructure, and developer tools 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/nxank4)
 [![CodePawl](https://img.shields.io/badge/CodePawl-000000?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/codepawl)
-[![Website](https://img.shields.io/badge/Website-codepawl.com-111111?style=for-the-badge\&logo=vercel\&logoColor=white)](https://codepawl.com/)
+[![Website](https://img.shields.io/badge/Website-codepawl.com-F38020?style=for-the-badge\&logo=cloudflare\&logoColor=white)](https://codepawl.com/)
 
 </div>
 
