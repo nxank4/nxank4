@@ -58,14 +58,14 @@ Currently building:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 June 2026 - To: 10 June 2026
+From: 04 June 2026 - To: 11 June 2026
 
-Total Time: 16 hrs 28 mins
+Total Time: 15 hrs 53 mins
 
-TypeScript   5 hrs 40 mins         ████████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   34.43 %
-Python       3 hrs 47 mins         █████▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   23.02 %
-Markdown     3 hrs 30 mins         █████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   21.26 %
-Other        52 mins               █▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.35 %
+TypeScript   4 hrs 50 mins         ███████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   30.48 %
+Markdown     4 hrs 36 mins         ███████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.98 %
+Python       2 hrs 20 mins         ███▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   14.71 %
+Other        1 hr 19 mins          ██▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.30 %
 ```
 
 <!--END_SECTION:waka-->
