@@ -41,15 +41,15 @@ CodePawl is evolving into **Computer Agent**: a practical research stack for age
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 June 2026 - To: 25 June 2026
+From: 19 June 2026 - To: 26 June 2026
 
-Total Time: 48 hrs 25 mins
+Total Time: 43 hrs 41 mins
 
-Markdown      13 hrs 40 mins        ███████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.25 %
-TypeScript    12 hrs 10 mins        ██████▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   25.14 %
-JavaScript    5 hrs 45 mins         ███▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   11.88 %
-Python        5 hrs 9 mins          ██▆▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   10.65 %
-HTML          3 hrs 32 mins         █▇▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   07.33 %
+TypeScript    12 hrs 31 mins        ███████▂▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   28.66 %
+Markdown      11 hrs 30 mins        ██████▅▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   26.33 %
+Python        5 hrs 39 mins         ███▃▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   12.95 %
+HTML          3 hrs 33 mins         ██▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   08.13 %
+CSS           2 hrs 29 mins         █▄▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁   05.71 %
 ```
 
 <!--END_SECTION:waka-->
