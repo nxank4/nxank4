@@ -4,10 +4,6 @@
 
 # An Xuan · nxank4
 
-Founder of **CodePawl**
-
-Building **Computer Agent** — research and infrastructure for practical agents that work well with weaker models, use fewer tokens, stay fast, finish long-running tasks, and hallucinate less
-
 [![Website](https://img.shields.io/badge/codepawl.com-111111?style=flat-square)](https://codepawl.com/)
 [![GitHub](https://img.shields.io/badge/CodePawl-111111?style=flat-square&logo=github)](https://github.com/codepawl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin)](https://linkedin.com/in/nxank4)
