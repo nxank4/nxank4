@@ -14,8 +14,6 @@ Building **Computer Agent** — research and infrastructure for practical agents
 
 </div>
 
----
-
 ### Focus
 
 - computer-use agents and long-horizon task execution
