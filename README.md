@@ -8,8 +8,6 @@
 [![GitHub](https://img.shields.io/badge/CodePawl-111111?style=flat-square&logo=github)](https://github.com/codepawl)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin)](https://linkedin.com/in/nxank4)
 
-</div>
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake-dark.svg" />
@@ -17,23 +15,3 @@
     <img alt="github contribution snake" src="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake.svg" width="100%" />
   </picture>
 </div>
-
-<details>
-<summary>development time</summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 29 August 2026 - To: 05 September 2026
-
-Total Time: 0 secs
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
-</details>
-
-<!-- blog:START -->
-<!-- blog:END -->
