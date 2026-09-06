@@ -14,17 +14,6 @@ Building **Computer Agent** — research and infrastructure for practical agents
 
 </div>
 
-### Focus
-
-- computer-use agents and long-horizon task execution
-- token-efficient agent loops for small and mid-size models
-- evaluation, tracing, memory, and reliability for AI systems
-- developer tools that turn research into working products
-
-### Current direction
-
-CodePawl is evolving into **Computer Agent**: a practical research stack for agents that can operate software, complete longer workflows, and stay grounded under real constraints
-
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nxank4/nxank4/main/github-snake-dark.svg" />
